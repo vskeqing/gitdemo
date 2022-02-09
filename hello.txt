@@ -5,4 +5,7 @@ hello git!
 hello git!
 hello git!
 hello git!
-hello git!ttest
+<<<<<<< HEAD
+=======
+hello git!hew test
+>>>>>>> hot-fix
